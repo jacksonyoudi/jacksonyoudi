@@ -6,6 +6,7 @@
   
   
 [![Jianshu](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-jackson-red)](https://www.jianshu.com/u/30c5a2b50c1d)
+[![Github](https://img.shields.io/badge/-jacksonyoudi-000?style=flat&logo=Github&logoColor=white)](https://github.com/jacksonyoudi)
 [![Telegram](https://img.shields.io/badge/-@jackson-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/changyouliang)
 [![Gmail](https://img.shields.io/badge/-jackson-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liangchangyoujackson@gmail.com)
   
