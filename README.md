@@ -48,7 +48,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
